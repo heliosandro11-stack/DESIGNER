@@ -1,0 +1,8 @@
+{
+  "name": "Copy of DIVINO DESIGNER 4.2",
+  "description": "Uma plataforma premium de design profético e cristão, utilizando IA para criar artes de excelência para o Reino de Deus.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
